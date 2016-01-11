@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"produc",
+				"product_params"
+			],
+			[
+				"text",
+				"text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"sublime.version()",
+			"restart",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/viendev/workspace/venshop"
+	],
+	"file_history":
+	[
+		"/home/viendev/workspace/venshop/venshop.sublime-project",
+		"/home/viendev/workspace/bookstore/app/controllers/books_controller.rb",
+		"/home/viendev/workspace/bookstore/app/views/layouts/application.html.erb",
+		"/home/viendev/workspace/bookstore/config/routes.rb",
+		"/home/viendev/workspace/bookstore/Gemfile",
+		"/home/viendev/workspace/bookstore/app/assets/stylesheets/application.css.scss",
+		"/home/viendev/workspace/bookstore/app/views/shared/_navbar.html.erb",
+		"/home/viendev/workspace/bookstore/app/assets/javascripts/application.js",
+		"/home/viendev/workspace/rbrails/app/assets/javascripts/application.js",
+		"/home/viendev/workspace/rbrails/Gemfile",
+		"/home/viendev/workspace/rbrails/app/assets/stylesheets/application.scss",
+		"/home/viendev/workspace/rbrails/app/assets/stylesheets/application.css",
+		"/home/viendev/workspace/railspj/Gemfile",
+		"/home/viendev/workspace/learn/Gemfile",
+		"/home/viendev/workspace/learnRails/app/assets/stylesheets/application.css",
+		"/home/viendev/workspace/learnRails/Gemfile",
+		"/home/viendev/workspace/learnRails/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/viendev/workspace/learnRails/app/assets/javascripts/application.js",
+		"/home/viendev/workspace/web_training/training/app/views/products/show.html.erb",
+		"/home/viendev/workspace/web_training/training/app/views/products/index.html.erb",
+		"/home/viendev/workspace/web_training/training/app/controllers/products_controller.rb",
+		"/home/viendev/workspace/web_training/training/app/views/products/new.html.erb",
+		"/home/viendev/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/viendev/workspace/web_training/training/app/models/product.rb",
+		"/home/viendev/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/viendev/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/viendev/workspace/web_training/training/app/views/products/product.html.erb",
+		"/home/viendev/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/viendev/workspace/web_training/training/config/routes.rb",
+		"/home/viendev/workspace/web_training/training/Gemfile",
+		"/home/viendev/workspace/web_training/training/config/routes",
+		"/home/viendev/workspace/web_training/training/Gemfile.txt",
+		"/home/viendev/.ssh/id_rsa.pub",
+		"/home/viendev/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/viendev/.config/sublime-text-3/Packages/User/CSS3.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p",
+			"\",\n",
+			"Control",
+			"open_files_in_new_window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "venshop.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application.c",
+				"app/assets/stylesheets/application.css.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/bookstore/bookstore.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
